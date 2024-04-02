@@ -4,12 +4,13 @@ I'm a software engineering student with a passion for music, audio engineering, 
 
 When I'm not lost in lines of code, you'll often find me in my studio crafting music and sounds or experimenting with vintage analogue video gear to conjure up some strange live visuals. Looking ahead, I aim to develop tools that not only enhance my creative pursuits but also empower fellow creatives on their journeys.
 
-Languages/tools I'm using and/or learning currently:
-C
-C++
-GLSL
-Max/MSP/Max For Live
-Visual Studio / VS Code
-Git
-Juce
-OpenFrameworks
+Languages/tools I'm using and/or learning currently:<br>
+<ul>
+  <li> C
+  <li>C++</li>
+<li>GLSL</li>
+<li>Max/MSP/Max For Live</li>
+<li>Visual Studio / VS Code</li>
+<li>Git</li>
+<li>Juce</li>
+<li>OpenFrameworks</li>
