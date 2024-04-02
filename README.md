@@ -1,17 +1,6 @@
-### 👋 HELLO WORLD
+Hi.
 
-I'm a software engineering student with a passion for music, audio engineering, and audiovisual arts. Currently, I'm immersing myself in the world of code at Hive Helsinki. Here, alongside my peers, we delve deep into crafting libraries, tools, and apps from scratch, primarily in C/C++. In this peer-to-peer learning environment, we not only tackle code but also develop crucial soft skills for the future.
+I'm Otto. I'm currently learning programming at <a href="http://www.hive.fi">Hive Helsinki </a>.
+I also make music and audiovisual arts.
 
-When I'm not lost in lines of code, you'll often find me in my studio crafting music and sounds or experimenting with vintage analogue video gear to conjure up some strange live visuals. Looking ahead, I aim to develop tools that not only enhance my creative pursuits but also empower fellow creatives on their journeys.
-
-Languages/tools I'm using and/or learning currently:
-<ul>
-<li>C</li>
-<li>C++</li>
-<li>GLSL</li>
-<li>Max/MSP/Max For Live</li>
-<li>Visual Studio / VS Code</li>
-<li>Git</li>
-<li>Juce</li>
-<li>OpenFrameworks</li>
-</ul>
+Anyway, here you'll find some of my programming projects, both personal and school projects.
