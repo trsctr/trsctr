@@ -8,9 +8,9 @@ I'm passionate about creative coding and love making things look and feel good. 
 
 In addition to development, I have a strong interest in integrating sound and technology, having worked on a variety of audio-related projects. This blend of creativity and technical expertise drives my work, whether it's designing interactive experiences or diving deep into complex software development challenges. If I am not working on programming related projects, it's highly likely I'm creating music and/or audiovisual art, and I hope to combine my new programming skills with my creative work.
 
-### Current tools include:
+### Current tools and skills include:
 - C, C++, TypeScript, JavaScript, Python, GLSL
-- React, Node.js, Three.js
+- React, Node.js, Three.js, Storybook, SFML
 
 Feel free to explore my work, and let's connect!
 
