@@ -10,7 +10,7 @@ In addition to development, I have a strong interest in integrating sound and te
 
 ### Current tools and skills include:
 - C, C++, TypeScript, JavaScript, Python, GLSL
-- React, Node.js, Three.js, Storybook, SFML
+- JUCE, Astro, React, Node.js, Three.js, Storybook, SFML
 
 Feel free to explore my work, and let's connect!
 
