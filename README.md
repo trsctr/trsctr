@@ -1,17 +1,13 @@
 ## Hi, I'm Otto 👋
 
-I'm an aspiring software developer with a background in audio engineering and tech support.
+I'm a creative developer and a [Hive Helsinki](https://hive.fi) / [42 Network](https://www.42network.org) graduate.
 
-I recently completed my core studies at [Hive Helsinki](https://hive.fi) (part of the [42 Network](https://www.42network.org)), where I learned the fundamentals of programming by building various challenging solo- and group projects with C and C++ ranging from creating a function library from scratch to 3D graphics projects and creating an IRC-server.
+I like experimenting, creative coding and building things that get used. Right now that mostly means [viive](https://github.com/trsctr/viive), a JUCE-based creative delay I'm developing in my spare time.
 
-I'm passionate about creative coding and love making things look and feel good. Currently, I am exploring graphics programming with GLSL and Three.js as well as web development with React and TypeScript.
-
-In addition to development, I have a strong interest in integrating sound and technology, having worked on a variety of audio-related projects. This blend of creativity and technical expertise drives my work, whether it's designing interactive experiences or diving deep into complex software development challenges. If I am not working on programming related projects, it's highly likely I'm creating music and/or audiovisual art, and I hope to combine my new programming skills with my creative work.
+Outside of code I'm into music production, DJing, audiovisual art and speculative fiction.
 
 ### Current tools and skills include:
 - C, C++, TypeScript, JavaScript, Python, GLSL
-- JUCE, Astro, React, Node.js, Three.js, Storybook, SFML
+- JUCE, Astro, React, Node.js, Three.js, SFML
 
-Feel free to explore my work, and let's connect!
-
-Oh and you can also check out [trsctr.github.io](https://trsctr.github.io).
+Oh, and you can also check out [trsctr.github.io](https://trsctr.github.io), [outoffuel.net](https://outoffuel.net) and [my audiovisual work at youtube](https://www.youtube.com/@trsctr)
