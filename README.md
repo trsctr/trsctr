@@ -1,7 +1,5 @@
 ## Hi, I'm Otto 👋
 
-I'm a creative developer and a [Hive Helsinki](https://hive.fi) / [42 Network](https://www.42network.org) graduate.
-
 I like experimenting, creative coding and building things that get used. Right now that mostly means [viive](https://github.com/trsctr/viive), a JUCE-based creative delay I'm developing in my spare time.
 
 Outside of code I'm into music production, DJing, audiovisual art and speculative fiction.
